@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "aws-amplify-cognito-authentication"
+    }
+  },
+  "defaultProject": "aws-amplify-cognito-authentication",
+  "cli": {
+    "analytics": false
+  }
 }
