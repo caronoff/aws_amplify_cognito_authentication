@@ -1,6 +1,6 @@
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
-import Amplify from 'aws-amplify';
+import Amplify, {Auth} from 'aws-amplify';
 
 import awsconfig from './aws-exports';
 
